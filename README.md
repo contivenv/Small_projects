@@ -1,1 +1,1 @@
-Aqui vão estar alguns dos projetos que fiz, estou fazendo ou que não deram certo. Pretendo colocar aqui uma espécie do que fiz em cada commit dos projetos. As desrições de regras, funcionamentos vão estar neles.
+Aqui vão estar alguns dos projetos que fiz, estou fazendo ou que não deram certo. Pretendo colocar aqui uma espécie do que fiz em cada commit dos projetos. As descrições de regras, funcionamentos vão estar neles.
